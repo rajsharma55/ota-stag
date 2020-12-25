@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1430764400,
-      "filename": "ota-package.zip",
+      "datetime": 1430786534,
+      "filename": "StagOS-rolex-10.0.3-UNOFFICIAL-Pristine-20200615-0416.zip",
       "id": "5eb63bbbe01eeed093cb22bb8f6ycdc3",
       "romtype": "nightly",
-      "size": 314572800,
+      "size": 614572800,
       "url": "https://sourceforge.net/projects/rolex55/files/StagOS-rolex-10.0.3-UNOFFICIAL-Pristine-20200615-0416.zip/download",
       "version": "15.2"
     }
