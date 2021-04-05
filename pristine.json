@@ -1,13 +1,12 @@
-{
+{ 
   "response": [
-    {
-      "datetime": 1608714013,
-      "filename": "StagOS-rolex-11.0.B2-Pristine-20201225-1324.zip",
-      "id": "fe5fdb0accce6e844bbff8e489c1254ee5b03951e40735ab06216cd7a21d5835",
-      "romtype": "BETA",
-      "size": 709383302,
-      "url": "https://mega.nz/file/jkEmwDAL#YIr1iWD6I6i3xJFBeDDPcNrEIqRPAS1u6PWCIGMiJRM",
-      "version": "11.0.B2"
+    { 
+      "datetime": "1615917702",
+      "filename": "StagOS-rolex-11.0.R2-UNOFFICIAL-Pristine-20210316-1804.zip", 
+      "id": "f7b11d9d87ccefeedd3a47fbc3d9165a395c1c9c9b7579589a746873b5fe415a", 
+      "size": "803363293", 
+      "url": "https://sourceforge.net/projects/rolex55/files/StagOS-rolex-11.0.R2-UNOFFICIAL-Pristine-20210403-1459.zip/download", 
+      "version": "11.0.R2" 
     }
   ]
 }
